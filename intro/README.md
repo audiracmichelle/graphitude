@@ -4,4 +4,5 @@
 
 + [x] [Episode #1 - Evolution of DBs](https://www.youtube.com/watch?v=5Tl8WcaqZoc&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=2&t=11s)
 + [x] [Episode #2 - Properties of Graph DBs & Use Cases](https://www.youtube.com/watch?v=-dCeFEqDkUI&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=2)
-+ [ ] [Episode #3 - Property Graph Model](https://www.youtube.com/watch?v=NH6WoJHN4UA&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=3)
++ [x] [Episode #3 - Property Graph Model](https://www.youtube.com/watch?v=NH6WoJHN4UA&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=3)
++ [ ] [Episode #4 - Episode #4 - (RDBMS+SQL) to (Graphs+Cypher)](https://www.youtube.com/watch?v=NH6WoJHN4UA&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=3)
