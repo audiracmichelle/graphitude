@@ -2,11 +2,7 @@
 
 ## [Episode #4 - Episode #4 - (RDBMS+SQL) to (Graphs+Cypher)](https://www.youtube.com/watch?v=NH6WoJHN4UA&list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U&index=3)
 
-**Ready to build your application with Neo4j? This video introduces you to the three key steps: creating the model, loading data, querying.
-
-Much of the episode covers moving from RDBMS to Graphs.
-
-As David Meza from NASA says, "I love Neo4j because I can explore relationships faster than you can say SQL JOIN."**
+**Ready to build your application with Neo4j? This video introduces you to the three key steps: creating the model, loading data, querying. Much of the episode covers moving from RDBMS to Graphs. As David Meza from NASA says, "I love Neo4j because I can explore relationships faster than you can say SQL JOIN."**
 
 First steps to using Neo4j:
 
